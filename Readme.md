@@ -65,10 +65,10 @@ I propose to use a Hybrid recommendation system (HRS) which is a combination of 
 
 
 ## RECRUITER END APPLICATION OVERVIEW
-<img width="300" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/4f2001c3-5c40-4d3a-9de2-0c8d8da11506">
-<img width="300" alt="Screenshot 2" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/1a9fce13-0efe-4d00-b41a-7828059e8cbb">
-<img width="300" alt="Screenshot 3" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/bee4b701-e3ad-42d5-bf26-3d2ef325d440">
-<img width="300" alt="Screenshot 4" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/07859ef5-2fdc-439f-968b-7b60177aa85b">
+<img width="300" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/ca29efe2-d696-4b4f-b94d-fd0942a0e695">
+<img width="300" alt="Screenshot 2" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/5a3a8545-3cb5-43eb-ba75-cc325a17cd88">
+<img width="300" alt="Screenshot 3" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/31238f3e-2cdc-49fa-a37d-5af8f348c72c">
+<img width="300" alt="Screenshot 4" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/1972162f-23a5-4a82-890c-203896313225">
 
 
 ## ML Workflow:
