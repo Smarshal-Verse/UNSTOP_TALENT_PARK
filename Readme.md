@@ -54,12 +54,15 @@ I propose to use a Hybrid recommendation system (HRS) which is a combination of 
 
 
 ## USER END APPLICATION OVERVIEW
-<img width="300" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/aea56490-3b90-4c42-aecf-4364783db477">
-<img width="300" alt="Screenshot 2" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/30bdac93-d7a1-4697-adef-374845963bde">
-<img width="300" alt="Screenshot 3" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/02d7190f-33e7-43d0-9220-f251133b1e97">
-<img width="300" alt="Screenshot 4" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/9ff72f93-84f1-44c9-b701-d14390976d92">
-<img width="300" alt="Screenshot 5" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/6ba11a00-8c35-4d72-ab42-29ea29acde99">
-<img width="300" alt="Screenshot 6" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/8e9a4721-f631-4a74-a084-e0affa53c105">
+
+<img width="300" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/69d1eecc-e705-40ee-a37e-83b625b810d9">
+<img width="300" alt="Screenshot 2" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/b8acaa50-8d8a-4141-b538-9e8928c70586">
+<img width="300" alt="Screenshot 3" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/19949ef5-f565-4cf1-b762-7ae32c429940">
+<img width="300" alt="Screenshot 4" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/8503102d-862b-4240-832e-339efcde5fd4">
+<img width="300" alt="Screenshot 5" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/a036b0d1-9d73-429a-a8c0-83f082448eb2">
+<img width="300" alt="Screenshot 6" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/2c4adfaa-fdf7-40c4-bdf7-e9fd0a4553d6">
+<img width="300" alt="Screenshot 7" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/ed71a3c3-9e67-4758-994a-e83e7bb4b721">
+
 
 ## RECRUITER END APPLICATION OVERVIEW
 <img width="300" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/4f2001c3-5c40-4d3a-9de2-0c8d8da11506">
