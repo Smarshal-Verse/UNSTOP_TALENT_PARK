@@ -66,8 +66,9 @@ I propose to use a Hybrid recommendation system (HRS) which is a combination of 
 
 ## RECRUITER END APPLICATION OVERVIEW
 <img width="300" alt="Screenshot 1" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/ca29efe2-d696-4b4f-b94d-fd0942a0e695">
-<img width="300" alt="Screenshot 2" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/5a3a8545-3cb5-43eb-ba75-cc325a17cd88">
+<img width="300" alt="Screenshot 2" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/94691f88-827d-449e-bc4d-f8d1aaedbee1">
 <img width="300" alt="Screenshot 3" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/31238f3e-2cdc-49fa-a37d-5af8f348c72c">
+
 <img width="300" alt="Screenshot 4" src="https://github.com/Smarshal21/UNSTOP_TALENT_PARK/assets/99678760/1972162f-23a5-4a82-890c-203896313225">
 
 
